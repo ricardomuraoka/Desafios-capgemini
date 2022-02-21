@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="desafios-capgemini">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Desafios-capgemini/desafios-capgemini.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
